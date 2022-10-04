@@ -1,4 +1,4 @@
-from replit import clear
+# from replit import clear (this code only works if you download replit package or run the code in replit)
 #HINT: You can call clear() to clear the output in the console.
 from art import logo
 print(logo)
